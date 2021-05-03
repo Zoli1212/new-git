@@ -1,1 +1,1 @@
-second2 conflict
+second2 conflict valami
